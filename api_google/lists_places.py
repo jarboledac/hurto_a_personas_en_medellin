@@ -100,7 +100,7 @@ PRINCIPALS_PLACES = [
     'store',
     'supermarket',
     'casino',                    
-    'n',                       
+    'lodging',                       
     'church',                    
     'clothing_store',                                           
     'veterinary_care',      
