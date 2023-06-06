@@ -1,5 +1,5 @@
 # **Hurto a personas en Medellín**
-<p><img alt="Colaboratory logo" height="240px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_EAFIT.svg/2560px-Logo_EAFIT.svg.png" align="center" hspace="100px" vspace="0px"></p>
+<p><img alt="Colaboratory logo" height="240px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_EAFIT.svg/2560px-Logo_EAFIT.svg.png" align="center" hspace="300px" vspace="0px"></p>
 Este repositorio hace parte de los entregables en mi trabajo de grado para optar por el título de magister en ciencia de los datos y analítica.
 
 ## **Resumen**
