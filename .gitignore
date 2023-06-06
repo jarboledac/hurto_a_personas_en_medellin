@@ -1,2 +1,4 @@
 .DS_Store
 api_google/*.pyc
+airflow_orquestation/logs/*
+airflow_orquestation/data/hurtos_med_mod.csv
