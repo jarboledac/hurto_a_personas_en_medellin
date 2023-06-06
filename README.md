@@ -9,4 +9,4 @@ En este trabajo se busca implementar las etapas del ciclo de vida de un proceso 
 
 ## **Arquitectura**
 
-<p><img alt="Colaboratory logo" height="240px" src="https://i.imgur.com/9OrSTA3.png" align="center" hspace="350px" vspace="0px"></p>
+<p><img alt="Colaboratory logo" height="800px" src="https://i.imgur.com/9OrSTA3.png" align="center" hspace="350px" vspace="0px"></p>
